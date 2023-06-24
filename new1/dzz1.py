@@ -4,7 +4,5 @@ def polindrom(c):
     else:
         print(False)
     
-
-
 c = input()
 polindrom(c)
